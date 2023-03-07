@@ -9,7 +9,7 @@
 chores around the house.
 
 > 🌱 I’m currently learning **react.js and next.js by taking Udemy courses and building fullstack projects and frontend UIs** <br>
-> 🌱 I'm also learning about **Data Structures and Algorithms** in my spare time to solidify my knowledgeand solve **LeetCode** questions
+> 🌱 I'm also learning about **Data Structures and Algorithms** in my spare time to solve those juicy **LeetCode** questions
 
 > 📫 Reach me at **chrisovalantis.vatos@mail.mcgill.ca**
 
