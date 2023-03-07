@@ -6,7 +6,7 @@
 
 
 > 🔭 I’m currently working on [Chorify](https://github.com/ChrisVatos/chorify), a fullstack web application that helps with the orgranization of 
-chores around the house. Built with a Springboot backend and a react.js frontend
+chores around the house.  <br> Side project to further enhance my knowledge with Spring, Hibernate, JPA and employ my newly acquired react.js and redux frontend skills.
 
 > 🌱 I’m currently learning **react.js and next.js by taking Udemy courses and building fullstack projects and frontend UIs** <br>
 > 🌱 I'm also learning about **Data Structures and Algorithms** in my spare time to solidify my knowledgeand solve **LeetCode** questions
@@ -33,8 +33,8 @@ chores around the house. Built with a Springboot backend and a react.js frontend
 ## Projects
 
 [Museum Manager App](https://github.com/McGill-ECSE321-Fall2022/project-group-07) <br> 
-- Fullstack web application that provides varying functionalities to distinct user
-- Employed the agile methodology in a team of 6 people as part of a semester long school project 
+- Fullstack web application that provides varying functionalities to distinct users
+- Employed the agile methodology in a team of 6 as part of a semester long school project 
 - Springboot backend with a vue.js frontend 
 
 [123 Loadboard Challenge](https://github.com/ChrisVatos/123LoadBoardChallenge)<br>
