@@ -5,8 +5,8 @@
 ### A second year McGill Software Engineering student passionate about software development.
 
 
-> 🔭 I’m currently working on [Chorify](https://github.com/ChrisVatos/chorify), a fullstack web application that helps with the orgranization of 
-chores around the house.  <br> Side project to further enhance my knowledge with Spring, Hibernate, JPA and employ my newly acquired react.js and redux frontend skills.
+> 🔭 As a side project to further enhance my knowledge with Spring, Hibernate, JPA and employ my newly acquired react.js and redux frontend skills I’m currently working on [Chorify](https://github.com/ChrisVatos/chorify), a fullstack web application that helps with the orgranization of 
+chores around the house.
 
 > 🌱 I’m currently learning **react.js and next.js by taking Udemy courses and building fullstack projects and frontend UIs** <br>
 > 🌱 I'm also learning about **Data Structures and Algorithms** in my spare time to solidify my knowledgeand solve **LeetCode** questions
