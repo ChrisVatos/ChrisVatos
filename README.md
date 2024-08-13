@@ -2,14 +2,11 @@
 
 
 # Hi there, I'm Chris 😄
-### A second year McGill Software Engineering student passionate about software development.
+### A fourth year McGill Software Engineering student passionate about software development.
 
 
-> 🌱 I’m currently furthering my knowledge in **react.js and next.js by taking Udemy courses and building fullstack projects and frontend UIs** <br>
+> 🌱 I have a deep passion for web development, which has only grown stronger through multiple internships where I’ve honed my skills in **React.js, Node.js, Express and database management** and gained invaluable experience in crafting dynamic, user-centric digital solutions.
 
-> 🌱 I'm also working towards obtaining my **AlgoExpert Certificate by Clément Mihailescu** to expand my DSA and **Python** knowledge and adequately prepare myself for future internships/interviews <br>
-
-> 🌱 In the near future, I aspire to leverage my **Python** knowledge to delve into the realms of **data visualization and machine learning** through courses and personal projects, using it as a powerful tool to uncover insights from complex datasets and create intelligent solutions
 
 > 📫 Reach me at **chrisovalantis.vatos@mail.mcgill.ca**
 
