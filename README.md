@@ -5,8 +5,9 @@
 ### A fourth year McGill Software Engineering student passionate about software development.
 
 
-> 🌱 I have a deep passion for web development, which has only grown stronger through multiple internships where I’ve honed my skills in **React.js, Node.js, Express and database management** and gained invaluable experience in crafting dynamic, user-centric digital solutions.
+> 🌱 I have a deep passion for web development, which has steadily grown stronger through multiple internships where I’ve honed my skills in **React.js, Node.js, Express and database management** and gained invaluable experience in crafting dynamic, user-centric digital solutions. <br>
 
+> 🌱 I’m currently learning/improving my skills in: **Cloud Computing, AWS**
 
 > 📫 Reach me at **chrisovalantis.vatos@mail.mcgill.ca**
 
@@ -19,15 +20,21 @@
 > Tools, languages, and other tech that I've worked with during internships, school, and side projects. <br>
 
 ### Languages 
-[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,java,py,bash)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,java,py,mysql,bash)](https://skillicons.dev)
 
 ### Libraries/Frameworks
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,bootstrap,express,nextjs,nodejs,vue,spring)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,bootstrap,spring,jest)](https://skillicons.dev)
+
 
 ### Technologies 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,gherkin,gradle,eclipse,vscode,firebase,docker,jenkins,postgres,hibernate)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,git,github,gitlab,gherkin,gradle,eclipse,vscode,docker,jenkins,postgres,hibernate)](https://skillicons.dev)
 
 ## Projects/Repositories
+[ECSE-211: Design Principles & Methods Course Project](https://www.youtube.com/watch?v=OWQ5Dy_Kga0)
+- In a team of 6, designed, assembled, and programmed a robot to deliver the correct fire suppressant cube to three hypothetical fires located on a grid, according to initial user requirements and input
+- Utilized a RaspberryPi, various control sensors and motors as well as Lego pieces in the design and build
+- Used Breadth-First-Search (BFS) Algorithm, coded in Python, to find the shortest path to the hypothetical fires on the map
+- Gained insightful and valuable knowledge in general data structures, shortest path finding algorithms as well as working in a dynamic team setting with constantly evolving requirements
 
 [Python DSA Course + LeetCode Questions](https://github.com/ChrisVatos/Python_DSA_Course)
 - Repository that organizes the lessons, practice questions, and LeetCode examples presented in the [Udemy Course](https://www.udemy.com/course/data-structures-algorithms-python/)
