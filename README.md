@@ -36,14 +36,19 @@
 - Used Breadth-First-Search (BFS) Algorithm, coded in Python, to find the shortest path to the hypothetical fires on the map
 - Gained insightful and valuable knowledge in general data structures, shortest path finding algorithms as well as working in a dynamic team setting with constantly evolving requirements
 
-[Python DSA Course + LeetCode Questions](https://github.com/ChrisVatos/Python_DSA_Course)
-- Repository that organizes the lessons, practice questions, and LeetCode examples presented in the [Udemy Course](https://www.udemy.com/course/data-structures-algorithms-python/)
-- Gained insightful and valuable knowledge in Data Structures and Algorithms and provided a nice baseline for subsequent courses and interviews
-
 [Chorify](https://github.com/ChrisVatos/chorify)
 - Fullstack web application that provides organizational functionality of household chores for families
 - SpringBoot backend with a React.js frontend
 - JUnit tests for the SpringBoot backend to assure correct functionality
+
+[ECSE-428: Software Engineering in Practice Course Project](https://github.com/JamesDarby345/5LeagueFantasy)
+- In a team of 6, created a soccer fantasy web application that allowed users to select players from all 5 major European soccer leagues on a weekly basis
+- Set up a head-to-head system where users, with their selected teams of 5 players, would face off and earn points based on the performance of their selected players
+- Gained insightful and valuable knowledge in Spring/SpringBoot, database management, React.js, Gherkin testing, and software development best practices working with a large team on a single code base
+
+[Python DSA Course + LeetCode Questions](https://github.com/ChrisVatos/Python_DSA_Course)
+- Repository that organizes the lessons, practice questions, and LeetCode examples presented in the [Udemy Course](https://www.udemy.com/course/data-structures-algorithms-python/)
+- Gained insightful and valuable knowledge in Data Structures and Algorithms and provided a nice baseline for subsequent courses and interviews
 
 [Facelift](https://github.com/ChrisVatos/FaceLift)
 - Targeted face blur using Python and external libraries to protect the privacy of bystanders during news casts, sport events, etc.
