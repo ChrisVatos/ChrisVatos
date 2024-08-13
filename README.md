@@ -5,7 +5,7 @@
 ### A fourth year McGill Software Engineering student passionate about software development.
 
 
-> 🌱 I have a deep passion for web development, which has steadily grown stronger through multiple internships where I’ve honed my skills in **React.js, Node.js, Express and database management** and gained invaluable experience in crafting dynamic, user-centric digital solutions. <br>
+> 🌱 I have a deep passion for web development, which has steadily grown stronger through multiple internships where I’ve honed my skills in **React.js, Node.js, Express and database management** and gained invaluable experience in crafting dynamic user-centric solutions <br>
 
 > 🌱 I’m currently learning/improving my skills in: **Cloud Computing, AWS**
 
